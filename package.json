@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@arbitrum/sdk": "^3.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1"
+  }
+}
