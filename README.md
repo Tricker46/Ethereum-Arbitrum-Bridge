@@ -17,6 +17,9 @@ To work with this POC, you'll need:
 ### Install Dependencies
 Firstly, you'll need to install the following dependency:
 ```
+npm install --save-dev @types/node
+```
+```
 yarn add @arbitrum/sdk
 ```
 
@@ -28,4 +31,4 @@ node main.js
 ```
 
 ## License
-This project is open-source and available under the MIT License. See the LICENSE file for more info.
+This project is open-source and available under the MIT License. See the LICENSE.md file for more info.
